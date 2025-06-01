@@ -2,3 +2,8 @@
 that allows customers to directly to book a call
 with the driver and the driver receive details about 
 the customers that book their services.
+
+## Taxi Workflow Diagram
+
+![image1](image1)
+````
