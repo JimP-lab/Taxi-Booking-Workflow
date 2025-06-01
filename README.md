@@ -4,6 +4,5 @@ with the driver and the driver receive details about
 the customers that book their services.
 
 ## Taxi Workflow Diagram
+[image1](image1)
 
-![image1](image1)
-````
