@@ -5,7 +5,7 @@ It was made using WordPress for the website and Make.com for the booking workflo
 
 ## Resources 
 Make: https://www.make.com/en
-WordPress: https://wordpress.org/
+WordPress: https://wordpress.org 
 
 
 ## Taxy Booking Website
